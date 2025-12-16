@@ -1,2 +1,2 @@
-# FOSS-CLUB
+# FOSS_CLUB
 Foss Worke Cluble
